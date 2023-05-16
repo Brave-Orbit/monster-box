@@ -70,7 +70,7 @@ export function Screencasts() {
         </p>
         <p className="mt-4 text-lg tracking-tight text-slate-700">
           Learn how to assemble and create an exceptional quality custom box which can be used for anything you want.
-          Get the satisfaction of making an actual thing and it's a great project to do with your kids.
+          Get the satisfaction of making an actual thing and it&lsquo;s a great project to do with your kids.
         </p>
       </Container>
       <Container size="lg" className="mt-16">

@@ -13,7 +13,7 @@ function Testimonial() {
       </div>
       <blockquote className="mt-2">
         <p className="font-display text-xl font-medium text-slate-900">
-        &quot;That is the most handsome box I have ever seen. I want want that I can build with Seb. I WANT ONE.&quot;
+        &ldquo;That is the most handsome box I have ever seen. I want want that I can build with Seb. I WANT ONE.&rdquo;
         </p>
       </blockquote>
       <figcaption className="mt-2 text-sm text-slate-500">

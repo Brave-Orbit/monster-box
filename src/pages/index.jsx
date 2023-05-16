@@ -39,7 +39,7 @@ export default function Home() {
         }}
       >
         <p>
-          “I like hands-on projects I can do at home with my kids. This is one of the highest quality DIY kits I've seen.”
+          “I like hands-on projects I can do at home with my kids. This is one of the highest quality DIY kits I&lsquo;ve seen.”
         </p>
       </Testimonial>
       <Screencasts />
@@ -52,7 +52,7 @@ export default function Home() {
         }}
       >
         <p>
-          “I'm always on the lookout for projects that can get the kids away from screens and can give us some quality time together. This is perfect.”
+          “I&lsquo;m always on the lookout for projects that can get the kids away from screens and can give us some quality time together. This is perfect.”
         </p>
       </Testimonial>
 
