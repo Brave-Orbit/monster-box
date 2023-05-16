@@ -48,7 +48,7 @@ export function Author() {
               and have no basis in the monster making field other than one gorgeous monster box.
               I’ve worked with developers of all skill levels
               and honed my way of teaching to childish adults who like making their own stuff.<br></br><br></br>
-              My stunning Hazu make this in CAD, basically engineered most of it and pushed me to finish it. 
+              My boyfriend Karl make this in CAD, basically engineered most of it and pushed me to finish it. 
               I'm a big fan of his work and am helping spread the monster box love.
             </p>
             <p className="mt-8">
