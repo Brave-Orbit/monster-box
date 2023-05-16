@@ -13,7 +13,7 @@ function Testimonial() {
       </div>
       <blockquote className="mt-2">
         <p className="font-display text-xl font-medium text-slate-900">
-          “That is the most handsome box I have ever seen. I want want that I can build with Seb. I WANT ONE.”
+        &quot;That is the most handsome box I have ever seen. I want want that I can build with Seb. I WANT ONE.&quot;
         </p>
       </blockquote>
       <figcaption className="mt-2 text-sm text-slate-500">
@@ -59,7 +59,7 @@ export function Hero() {
               Buy the box kit 🔥🧰🔨😸
               </Button>
               <Button href="#pricing" variant="outline" color="blue">
-                What's included?
+                What&quot;s included?
               </Button>
             </div>
           </div>

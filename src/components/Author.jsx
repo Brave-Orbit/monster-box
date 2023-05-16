@@ -39,17 +39,17 @@ export function Author() {
             </SectionHeading>
             <p className="mt-8 font-display text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl">
               <span className="block text-blue-600">Whitney Tennant –</span> Hey
-              there, I’m the maker behind the ‘DIY monster box kit’.
+              there, I&quot;m the maker behind the &quot;DIY monster box kit&quot;.
             </p>
             <p className="mt-4 text-lg tracking-tight text-slate-700">
-              I’ve been designing websites professionally for over a decade and
+              I&quot;ve been designing websites professionally for over a decade and
               now I have turned into a monster kit maker for no particular reason. 
-              I’m an accomplished nit-wit,
+              I&quot;m an accomplished nit-wit,
               and have no basis in the monster making field other than one gorgeous monster box.
-              I’ve worked with developers of all skill levels
+              I&quot;ve worked with developers of all skill levels
               and honed my way of teaching to childish adults who like making their own stuff.<br></br><br></br>
               My boyfriend Karl make this in CAD, basically engineered most of it and pushed me to finish it. 
-              I'm a big fan of his work and am helping spread the monster box love.
+              I&quot;m a big fan of his work and am helping spread the monster box love.
             </p>
             <p className="mt-8">
               <Link
